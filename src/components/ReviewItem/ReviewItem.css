@@ -1,0 +1,18 @@
+.remove {
+  background-color: goldenrod;
+  color: white;
+  border: 0;
+  padding: 0.5rem 2rem;
+  border-radius: 2px;
+  font: size 1rem;
+  cursor: pointer;
+}
+.product-item {
+  display: block;
+  box-sizing: border-box;
+}
+.item {
+  border-bottom: 1px solid lightgray;
+  padding: 2%;
+  box-sizing: border-box;
+}

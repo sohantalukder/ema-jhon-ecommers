@@ -1,0 +1,17 @@
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.totalQuantity {
+  color: goldenrod;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+tr td:first-child {
+  text-align: start;
+  padding-right: 100px;
+}
+tr td:last-child {
+  text-align: end;
+}
